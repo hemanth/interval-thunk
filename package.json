@@ -1,6 +1,6 @@
 {
   "name": "interval-thunk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "setInterval thunk.",
   "license": "MIT",
   "repository": "hemanth/interval-thunk",
