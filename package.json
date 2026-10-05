@@ -1,6 +1,6 @@
 {
   "name": "interval-thunk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "setInterval thunk.",
   "license": "MIT",
   "repository": "hemanth/interval-thunk",
@@ -13,7 +13,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --exit test.js"
   },
   "files": [
     "index.js"
@@ -24,6 +24,6 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "^11.7.0"
   }
 }
